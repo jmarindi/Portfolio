@@ -47,6 +47,8 @@ h1 {
 .content {
   background-color: white;
   padding: 10px;
+  width:100px;
+  
 }
 
 /* The "show" class is added to the filtered elements */
@@ -74,5 +76,5 @@ h1 {
    color: white;
 }
 table {
-  width: 100%;
+  width: 100px;
 }
